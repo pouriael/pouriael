@@ -48,6 +48,7 @@ my_skills = [
   'Html',
   'Css',
   'Docker',
+  'redis',
   'Git',
   'Json Web Token (JWT)',
   'PostgreSQL Database',
