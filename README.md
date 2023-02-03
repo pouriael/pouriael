@@ -9,7 +9,7 @@ Hello friends 👋🏻, Im pouria
 
 I'm 19 years old :)
 
-I have 1+ years of professional experience 💼
+I have 1.5+ years of professional experience 💼
 
 I'm a **Back-end** developer 🖥
 
@@ -27,11 +27,8 @@ I like to learn more more more...
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
@@ -52,6 +49,10 @@ my_skills = [
   'Git',
   'Json Web Token (JWT)',
   'PostgreSQL Database',
+  'jira',
+  'scrum',
+  'nginx',
+  'linux'
 ]
 
 ```
@@ -61,14 +62,11 @@ my_skills = [
 ### 📞 Me on social media:
 
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/pouria-elhami-pour-91082a225/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-gmail-URL">
+  <a href="pouriael2002@gmail.com">
     <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twi-URL">
-    <img src="https://img.shields.io/badge/instagram-purpule?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
@@ -84,9 +82,6 @@ my_skills = [
   <th>
     Repo link
   </th>
-  <th>
-    Stars
-  </th>
 </tr>
 
 <tr>
@@ -94,13 +89,9 @@ my_skills = [
     Didikala
   </td>
   <td>
-    <a href="https://github.com/AminAliH47/PicoSchool" target="_blank">Link</a>
+    <a href="https://github.com/pouriael/Didikala-dockerized" target="_blank">Link</a>
   </td>
-  <td>
-    
-![GitHub Repo stars](https://img.shields.io/github/stars/AminAliH47/PicoSchool?style=social)
-    
-  </td>
+  
 </tr>
 
 <tr>
@@ -108,53 +99,29 @@ my_skills = [
     restaurant 
   </td>
   <td>
-    <a href="https://github.com/AminAliH47/Website-analyzer" target="_blank">Link</a>
+    <a href="https://github.com/pouriael/restooran-CBV" target="_blank">Link</a>
+  </td>
+
+</tr>
+
+<tr>
+  <td>
+    warshop-api
   </td>
   <td>
-    
-![GitHub Repo stars](https://img.shields.io/github/stars/AminAliH47/Website-analyzer?style=social)
-    
+    <a href="https://github.com/pouriael/Warshop-api" target="_blank">Link</a>
   </td>
 </tr>
 
 <tr>
   <td>
-    PicoShop
+    Photogram
   </td>
   <td>
-    <a href="https://github.com/AminAliH47/PicoStyle" target="_blank">Link</a>
-  </td>
-  <td>
-    
-![GitHub Repo stars](https://img.shields.io/github/stars/AminAliH47/PicoStyle?style=social)
-    
+    <a href="https://github.com/pouriael/Photogram" target="_blank">Link</a>
   </td>
 </tr>
+<tr>
 
-<tr>
-  <td>
-    Social media
-  </td>
-  <td>
-    <a href="https://github.com/AminAliH47/APIBlog" target="_blank">Link</a>
-  </td>
-  <td>
-    
-![GitHub Repo stars](https://img.shields.io/github/stars/AminAliH47/APIBlog?style=social)
-    
-  </td>
-</tr>
-<tr>
-  <td>
-  Api shop
-  </td>
-  <td>
-  <a href="https://github.com/AminAliH47/wp-admin-html-template" target="_blank">Link</a>
-  </td>
-  <td>
-  
-  ![GitHub Repo stars](https://img.shields.io/github/stars/AminAliH47/wp-admin-html-template?style=social)
-    
-  </td>
 </tr>
 </table>
